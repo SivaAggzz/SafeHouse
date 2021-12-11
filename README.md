@@ -14,4 +14,4 @@
                   The Character's name and the actor's name appears in a short duration toast.
                  (Try to keep the text in white or with a dark background also so that it's visible over the images)
 
-            3. use of Coil library for image processing (preferred but still Optional)
+            3. use Glide Library
